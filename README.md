@@ -47,7 +47,7 @@ To run this application locally, follow these steps:
 4. **Start the development server:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
     This will open the application in your default web browser.
